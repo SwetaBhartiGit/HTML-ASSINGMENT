@@ -1,7 +1,7 @@
 /* START FOR Header */
 .page-header{
     border: 2px solid black;
-    width: 100%;
+    width: 50%;
     height: 90px;
     background-color:rgb(217, 233, 235);
 }
