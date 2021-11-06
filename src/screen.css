@@ -1,4 +1,50 @@
 /* Our CSS file. */
+#landing-section {
+    display: flex;
+    justify-content: space-between;
+   
+  }
+  
+  #left-div{
+    width: 50%;
+   border:2px solid black;
+  }
+  
+  #right-div {
+    width: 50%;
+    border: 2px solid black;
+  }
+  
+  .list-item {
+    font-size: 40px;
+    color: red;
+  }
+  
+  
+  #bottom-section {
+   display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  #left-div-one {
+   width: 50%;
+    border: 2px solid black;
+    }
+  
+  #right-div-one {
+    width: 50%;
+    border: 2px solid black;
+    
+  }
+  
+  .heading {
+    margin-top: 180px;
+    margin-left: 60px;
+    color:		#FFD700; 
+    font-family: 'Work Sans', sans-serif;
+   
+  }
 
 
 .container, .content {
